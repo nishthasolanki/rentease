@@ -1,0 +1,6 @@
+{
+  "name": "RentEase",
+  "description": "India's trusted furniture & appliance rental platform. Rent high-quality home essentials with flexible plans, free maintenance, and hassle-free returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
